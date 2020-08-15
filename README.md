@@ -5,8 +5,10 @@
 
 Fire in the terminal using unicode characters.
 
-Based on https://github.com/r-marques/doomfire/ (doomfire implementation)
-And https://github.com/yazgoo/blockish (image rendering in the terminal)
+Based on 
+
+- https://github.com/r-marques/doomfire/ (doomfire implementation)
+- https://github.com/yazgoo/blockish (image rendering in the terminal)
 
 # downloading
 
