@@ -8,4 +8,4 @@ license = "MIT"
 [dependencies]
 crossterm = "0.15"
 blockish = "0.0.8"
-doomfire = { path = "../doomfire" }
+doomfire = { path = "doomfire" }
