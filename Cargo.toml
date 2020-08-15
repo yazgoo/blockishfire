@@ -1,0 +1,11 @@
+[package]
+name = "blockishfire"
+version = "0.1.0"
+authors = ["yazgoo <yazgoo@gmail.com>"]
+edition = "2018"
+license = "MIT"
+
+[dependencies]
+crossterm = "0.15"
+blockish = "0.0.8"
+doomfire = { path = "../doomfire" }
