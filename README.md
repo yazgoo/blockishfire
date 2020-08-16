@@ -5,15 +5,27 @@
 
 Fire in the terminal using unicode characters.
 
-Based on 
+Based on:
 
-- https://github.com/r-marques/doomfire/ (doomfire implementation)
-- https://github.com/yazgoo/blockish (image rendering in the terminal)
+- [r-marques/doomfire](https://github.com/r-marques/doomfire/) (doomfire implementation)
+- [yazgoo/blockish](https://github.com/yazgoo/blockish) (image rendering in the terminal)
 
-# downloading
+## Downloading
 
-binary version available in [releases page](https://github.com/yazgoo/blockishfire/releases)
+Binary version available in [releases page](https://github.com/yazgoo/blockishfire/releases)
 
-# running
+## Running
 
+Initialize Git modules:
+
+```bash
+git submodule update --init
+```
+
+Build and run:
+
+```bash
 cargo run --release
+```
+
+---
