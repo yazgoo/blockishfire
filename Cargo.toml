@@ -1,11 +1,12 @@
 [package]
 name = "blockishfire"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["yazgoo <yazgoo@gmail.com>"]
+description = "doomfire in the terminal"
 edition = "2018"
 license = "MIT"
 
 [dependencies]
 crossterm = "0.15"
 blockish = "0.0.8"
-doomfire = { path = "doomfire", version = "0.1.0" }
+rand = "0.7"
